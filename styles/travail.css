@@ -1,0 +1,122 @@
+html, body {
+  margin: 0;
+  padding:0px;
+  font-family: "Arial", Helvetica, sans-serif;
+  height: 100%;
+}
+header {
+  background: linear-gradient(to bottom, #d57443 0%, #c86431 100%);
+  padding: 8px 0;
+  text-align: center;
+  color: white;
+  height: 40px;
+}
+section {
+  padding: 50px 0px;
+}
+section div {
+  margin: 0px 50px;
+}
+a,
+a:visited {
+  text-decoration: none;
+  color: #b7511d;
+}
+a:hover,
+a:focus {
+  color: #0c6991;
+}
+h1,
+h2 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+/* clear fix */
+.clrfix {clear:both; width: 1%;}
+/* Logo  */
+a.logo {
+    text-decoration: none;
+    display: block;
+    margin-right: 30px;
+    float: left;
+  }
+a.logo img {
+    height: 38px;
+  }
+  /* Navigation menu */
+.menu {
+  display: block;
+  float:left;
+  padding:12px 0px;
+}
+ul.menu-links {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+ul.menu-links li {
+    float: left;
+    border-right: #ffffff solid 2px;
+}
+.menu-item a,.menu-item a:visited {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 0 10px;
+}
+
+li.menu-item:last-child {
+  border: none;
+}
+.menu-item:hover,
+.menu-item:active,
+.menu-item:focus {
+  color: #22aae2;
+  text-decoration: underline;
+}
+#main , .navbar{
+  margin: 0 auto;
+  width: 80%;
+}
+.entete-page {
+  background-image: url("../images/letstart-cta.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  height: 380px;
+  text-align: center;
+
+  /* Code flexbox */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+.entete-page h1 {
+  margin: 0;
+}
+footer {
+  background: linear-gradient(to bottom, #d57443 0%, #c86431 100%);
+  color: #fff;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 10pt;
+  padding: 8px 0;
+  width: 100%;
+}
+@media (max-width:854px) {
+  .menu {
+    display: none;
+  }
+ }
+ @media (max-width:500px) {
+  a.logo{
+    float: none;
+    text-align: center;
+    margin: 0px;
+  }
+ }
+ @media (max-width:250px) {
+  .menu {
+    display: none;
+  }
+ }

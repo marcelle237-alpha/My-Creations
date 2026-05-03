@@ -1,0 +1,39 @@
+
+    h1 , h2{
+        background-color: rgb(30, 165, 196);
+        opacity: 0.6;
+        color: black;
+        text-align: center;
+        text-transform: capitalize;
+    }
+    body{
+        border: 4px black solid;
+        border-radius: 40px / 20PX;
+        padding-left: 2em;
+        padding-right: 2em;
+        padding-top: auto;
+        padding-bottom: auto;
+        box-shadow: 40px 20px 10px rgb(13, 185, 197);
+        background: url(../images/Image_.png) no-repeat scroll top right,  url(../images/Image1.png) no-repeat fixed center center, url(../images/Image20.png) no-repeat left bottom;
+        }
+        p{
+            border: 2px solid rgb(5, 114, 131);
+            width: 50%;
+            height: 110px;
+            min-width: 400px;
+            text-align: justify;
+            padding: 12px;
+            margin: auto;
+            margin-bottom: 20px ;
+            overflow: auto;
+        }
+    img{
+        height: 100px;
+        width: auto;
+    }
+    .float{
+        float: left;
+    }
+    .clear{
+        clear: left;
+    }

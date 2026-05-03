@@ -1,0 +1,140 @@
+:root{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    margin: 0px;
+}
+h1,h2,h3,span{
+    margin: 0px;
+    color:  rgb(229, 127, 32);
+}
+.inner {
+    text-align: center;
+    background-color: rgb(55, 173, 251);
+}
+.container img{
+    width:200px;
+    height: auto;
+    display:inline-block;
+    transition: transform 300ms ease-in-out ;
+}
+.container img:hover{
+transform: scale(1.1) translatex(50px);
+}
+.main{
+    background-size: cover;
+    width: 95%;
+    margin: 0px auto;
+    border-radius: 25px;    
+}
+.container{
+    width: 90%;
+    margin: 0px auto;
+}
+.nav .container{
+    display: flex;
+    justify-content: space-between;
+    height: 15vh;
+    margin-top: 55px;
+}
+.nav .container img{
+    height: 47px;
+}
+.container menu{
+    display: flex;
+    list-style: none;
+}
+menu a,.button,#submit{
+    margin: 10px;
+    border: none;
+    text-decoration: none;
+    color: rgb(55, 173, 251);
+    padding: 2px;
+    border-radius: 5px;
+    background-image:-webkit-linear-gradient(90deg,rgb(229, 127, 32) -7px,white 20px,white 20px,rgb(229, 127, 32)25px);
+}
+menu a:hover,.button:hover,#submit:hover{
+    color:rgb(55, 173, 251);
+    text-shadow: black 2px 1px 2px;
+    padding: 4px;
+    border-radius: 5px;
+    transform: scale(1);
+}
+.top-banner .container{
+    text-align: center;
+    margin-bottom: 12px;
+}
+.banner .container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background:url(/images/banner2.jpg) no-repeat center center;
+    background-size: cover;
+    animation: banner-shake 5s ease-in-out infinite alternate;
+}
+@keyframes banner-shake{
+from{transform: translateX(-50px);}
+to{transform: translateX(50px);}
+}
+.banner-bottom{
+    background:url(/images/background-img1.svg) no-repeat;
+background-size: cover;
+margin: 0px;
+padding: 0px;
+}
+
+.banner-bottom .container{
+    display: flex;
+}
+dl{
+    width: 423px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+}
+dt{
+    padding: 4px;
+}
+.col1{
+    text-align: center;
+    flex:1 ;
+}
+.col2{
+    text-align: center;
+    align-self: center;
+}
+.footer-top .col{
+    text-align: center;
+}
+.footer-top .container{
+    display: flex;
+}
+.col3{
+    flex: 1;
+}
+.col4{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    flex: 2;
+}
+form{ 
+    display: flex;
+}
+input#email ,#password{
+    height: 2em;
+    border-radius: 15px;
+    border: none;
+    padding-left: 20px;
+    outline: none;
+    background-color: rgb(249, 243, 243);
+}
+form div.btn{
+    align-self: center;
+}
+footer h2{
+    margin: 0px;
+}

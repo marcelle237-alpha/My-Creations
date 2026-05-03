@@ -1,0 +1,45 @@
+:root{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    font-weight: bolder;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.main{
+    margin: 0px auto;
+    width: 80%;
+}
+.main section{
+    border: 2px rgba(0, 0, 0, 0.39) double;
+}
+.inner{
+    /* overflow: hidden; */
+    width: 600px;
+    border: 2px rgba(4, 164, 222, 0.386) double;
+    margin: 0px auto;
+}
+/* .inner div {
+    display: flex;
+    animation: marsi 20s infinite;
+}
+@keyframes marsi{
+    0%{
+        transform: translateX(0px);
+    }
+    25%{
+        transform: translateX(-200px);
+    }
+    75%{
+        transform: translateX(-400px);
+    }
+    100%{
+        transform: translateX(-600px);
+    }
+} */
+footer{
+    height: 3em;
+    text-align: center;
+    background-image:-webkit-linear-gradient(90deg,red,white 25%,pink 50%,red)
+}

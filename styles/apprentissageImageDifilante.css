@@ -1,0 +1,46 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    /* pour centrer sur l'axe-y y mettre un height ex 100vh
+    pour prendre toute la taile de la page */
+    height: 100vh;
+}
+#caroussel{
+    overflow: hidden;
+    width: 600px;
+    -webkit-perspective: 600;
+    -ms-perspective: 600;
+}
+.images{
+    display: flex;
+    animation: marsi 20s infinite;
+    transform: rotateY(45deg); 
+}
+.images img{
+    width: 600px;
+    height: 400px;
+  
+}
+/* .images img:hover{
+        transform: rotate(45deg) scale(1.25);  */
+
+@keyframes marsi{
+    0%{
+        transform: translateX(0);
+    }
+    25%{
+        transform: translateX(-600px);
+    }
+    50%{
+        transform: translateX(-1200px);
+    }
+    75%{
+        transform:translateX(-1800px) ;
+
+    }
+    100%{
+        transform: translateX(0px);
+    }
+
+}

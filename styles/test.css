@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    color: rgb(6, 83, 83);
+    font-family:'Times New Roman', serif;
+}
+.moi{
+    float: left;
+    width: 10%;
+    height: auto;}
+.clear{
+    clear: left;
+}
+footer p{
+    text-align: center;
+}
