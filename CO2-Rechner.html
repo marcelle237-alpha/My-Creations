@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html lang = "de">
+<head>
+<meta charset = "utf-8">
+<title>CO2 Rechner</title>
+<link rel = "stylesheet" href = "./styles/co2-rechner.css ">
+</head>
+<body>
+<div class = " container">
+<h1>Carbon Foot-Print Calculator</h1>
+<nav>
+<div class ="navbar">
+<div class ="logo"> 
+   <img src ="images/image.jpg" alt = "My logo">
+	<span>NK-Project</span>
+  </div>
+  <ul class = "nav-list">
+      <li><a href = "source.html" >Source </a></li>
+      <li><a href = "https://en.wikipedia.org//wiki/Carbon_footprint">A propos</a></li>
+  </ul>
+</div>
+</nav>
+<div class = "formular">
+	<form action = "python/co2-rechner.cgi" method = "post">
+		<label>Name:</label>
+			<input type = "text" name = "personName" required >
+		<label>Destination:</label>
+			<input type = "text" name = "destination" required>
+		<label> Distance(in km):</label>
+			<input type = "number" name = "distance" id = "distance" required>
+		<label> Type of transport:</label>
+			<select name  = "transport">
+				<option value = "0.192"> Car(gasoline)</option>
+				<option value = "0.045"> Car (electric)</option>
+				<option value = "0.105"> Bus </option>
+				<option value = "0.041"> Train </option>
+				<option value = "0.255"> Airplane (short-haul)</option>
+				<option value = "0.195"> Airplane (long - haul) </option>
+				<option value = "0"> Bicycle / Walking </option>
+			</select>
+
+		<input type = "submit" value = "calculate">
+	</form>
+</div>
+</div>
+</body>
+</html>
