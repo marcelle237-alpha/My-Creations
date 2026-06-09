@@ -1,5 +1,5 @@
-#  Creative Coding Portfolio  
-A collection of interactive web experiments, CGI scripts, and front‑end development exercises.
+#  My Creation Portfolio  
+A collection of interactive web experiments, java scripts, and front‑end development exercises.
 
 This repository showcases my learning journey in web development through hands‑on projects involving HTML, CSS, JavaScript, CGI scripting, and multimedia integration.  
 It demonstrates my ability to structure web applications, work with client–server interactions, and build interactive user experiences.
@@ -13,9 +13,6 @@ It demonstrates my ability to structure web applications, work with client–ser
 - Practical exercises demonstrating continuous learning and experimentation
 
 ##  Project Structure
-
-### **cgi-bin/**
-Contains CGI scripts (Python-based) used for dynamic form processing and server-side logic.
 
 ### **images/**
 Image assets used across the different HTML pages.
@@ -36,7 +33,7 @@ CSS stylesheets defining layout, color, spacing, and responsive design.
 ##  Featured HTML Projects
 
 ### **CO2-Rechner.html**
-A CO₂ calculator using a CGI backend.  
+A CO₂ calculator using a JavaScript backend.  
 Users enter travel information, and the script computes estimated emissions.
 
 ### **LearningFormularsParameters.html**
