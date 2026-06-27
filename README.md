@@ -55,4 +55,5 @@ An experiment with scrolling effects and image transitions.
 ## How to Run the Project
 
 ### **Static HTML pages**
+https://marcelle237-alpha.github.io/My-Creations/ then
 Open any `.html` file directly in your browser.
