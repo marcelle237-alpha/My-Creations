@@ -51,6 +51,9 @@ A simple personal website combining text, images, and basic styling.
 ### **learningImageScrolling.html**
 An experiment with scrolling effects and image transitions.
 
+### **Sudoku.html**
+A web-based Sudoku game developed using HTML, CSS, and JavaScript. It features an interactive grid, number input validation, and a clean UI that allows users to practice and improve their logic skills.
+
 
 ## How to Run the Project
 
