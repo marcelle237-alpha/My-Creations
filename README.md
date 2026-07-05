@@ -1,62 +1,72 @@
-#  My Creation Portfolio  
-A collection of interactive web experiments, java scripts, and front‑end development exercises.
+🌐 Marcelle kenfack— Web Development and Creative Coding Portfolio
+Welcome to my GitHub portfolio!
+I’m an Appliead compputer science student based in Brandenburg an der Havel, Germany, originally from Cameroon. I focus on web development, creative coding, and modern software architecture, building projects that combine technical precision with visual clarity.
 
-This repository showcases my learning journey in web development through hands‑on projects involving HTML, CSS, JavaScript, CGI scripting, and multimedia integration.  
-It demonstrates my ability to structure web applications, work with client–server interactions, and build interactive user experiences.
+This portfolio showcases the projects I’ve developed throughout my learning journey from basic web forms to interactive browser games and functional tools.
 
-## Highlights
+🚀 Projects
+Canva creation
+Containing all  the personal canva projects and drawings i did so far
 
-- Front‑end development using **HTML5**, **CSS3**, and **JavaScript**
-- Interactive UI components and form handling
-- Multimedia integration (images, audio, custom fonts)
-- Clean project structure following web development best practices
-- Practical exercises demonstrating continuous learning and experimentation
+ai-lead-generator
+A prototype tool for automated lead collection.
+Focus: form logic, data validation, clean UI structure.
+Tech: HTML, CSS, JavaScript
 
-##  Project Structure
+co2-rechner
+An interactive CO₂ calculator that helps users understand their environmental footprint.
+Tech: HTML, CSS, JavaScript
 
-### **images/**
-Image assets used across the different HTML pages.
+learningphase
+A sandbox for experimenting with DOM manipulation, layouts, events, and responsive design.
+Tech: HTML, CSS, JavaScript
 
-### **musique/**
-Audio files for multimedia and interactive experiences.
+MyFirstFormular
+My first interactive form project, focusing on UX, validation, and structured input handling.
+Tech: HTML, CSS
 
-### **polices/**
-Custom fonts used for typography and design exploration.
+MyWebsite
+A personal website demonstrating my design style and foundational web development skills.
+Tech: HTML, CSS
 
-### **script/**
-JavaScript files supporting animations, DOM manipulation, and interactive behavior.
+sudoku (game)
+A browser‑based Sudoku game with dynamic logic and DOM rendering.
+Tech: HTML, CSS, JavaScript
 
-### **styles/**
-CSS stylesheets defining layout, color, spacing, and responsive design.
+SuperCode (Game)
+A logic‑based browser game inspired by Mastermind.
+Focus: game mechanics, comparison logic, round management, dynamic UI feedback.
+Tech: HTML, CSS, JavaScript
 
+Key learnings:
 
-##  Featured HTML Projects
+Algorithmic thinking
 
-### **CO2-Rechner.html**
-A CO₂ calculator using a JavaScript backend.  
-Users enter travel information, and the script computes estimated emissions.
+Event handling
 
-### **LearningFormularsParameters.html**
-Explores HTML forms, GET/POST parameters, and user input processing.
+DOM manipulation
 
-### **LearningWebsiteStructure.html**
-Demonstrates a complete website layout with navigation, content sections, and footer.
+Structuring game logic
 
-### **MyFistFormular.html**
-Early form-handling experiment focusing on input validation and structure.
+Designing intuitive player feedback
 
-### **MyWebSite.html**
-A simple personal website combining text, images, and basic styling.
+🧠 Skills & Focus
+Web Development (HTML, CSS, JavaScript)
 
-### **learningImageScrolling.html**
-An experiment with scrolling effects and image transitions.
+Interactive & Creative Coding
 
-### **Sudoku.html**
-A web-based Sudoku game developed using HTML, CSS, and JavaScript. It features an interactive grid, number input validation, and a clean UI that allows users to practice and improve their logic skills.
+UI/UX fundamentals
 
+Cloud computing basics
 
-## How to Run the Project
+Modular, clean code structure
 
-### **Static HTML pages**
-https://marcelle237-alpha.github.io/My-Creations/ then
-Open any `.html` file directly in your browser.
+Professional documentation for academic projects
+
+🔗 Portfolio & Contact 
+Email: macellekenfack@gmail.com
+GitHub: https://github.com/marcelle237-alpha
+
+📌 Purpose of This Portfolio
+This repository documents my growth as a developer — from foundational exercises to fully interactive applications.
+My goal is to build a strong professional base in web development, cloud computing, and software architecture, while continuously improving my design and coding skills.
