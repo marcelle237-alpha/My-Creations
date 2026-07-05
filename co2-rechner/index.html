@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>CO2 Rechner</title>
-<link rel="stylesheet" href="./styles/co2-rechner.css">
+<link rel="stylesheet" href="style.css">
 </head>
 
 <body>
@@ -14,17 +14,17 @@
 
     <form id="co2Form" onsubmit="event.preventDefault(); calculateCO2();">
 
-        <label>Name:</label>
-        <input type="text" name="personName" required>
+        <label for="personName">Name:</label>
+        <input id="personName" type="text" name="personName" required>
 
-        <label>Destination:</label>
-        <input type="text" name="destination" required>
+        <label for="destination">Destination:</label>
+        <input id="destination" type="text" name="destination" required>
 
-        <label>Distance (km):</label>
-        <input type="number" name="distance" required>
+        <label for="distance">Distance (km):</label>
+        <input id="distance" type="number" name="distance" required>
 
-        <label>Transport:</label>
-        <select name="transport">
+        <label for="transport">Transport:</label>
+        <select id="transport" name="transport">
             <option value="0.192">Car (gasoline)</option>
             <option value="0.045">Car (electric)</option>
             <option value="0.105">Bus</option>
@@ -41,6 +41,6 @@
 
 </div>
 
-<script src="./script/co2-rechner.js"></script>
+<script src="script.js"></script>
 </body>
 </html>
