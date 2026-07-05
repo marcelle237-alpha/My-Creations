@@ -1,12 +1,13 @@
 🌐 Marcelle kenfack— Web Development and Creative Coding Portfolio
 Welcome to my GitHub portfolio!
-I’m an Appliead compputer science student based in Brandenburg an der Havel, Germany, originally from Cameroon. I focus on web development, creative coding, and modern software architecture, building projects that combine technical precision with visual clarity.
+I’m an Appliead compputer science student based in Brandenburg an der Havel, Germany, originally from Cameroon. I speek German , English  and French. I focus on web development, media design, creative coding, and modern software architecture, building projects that combine technical precision with visual clarity. I belong to those who think that with AI we can be much more performant.
 
-This portfolio showcases the projects I’ve developed throughout my learning journey from basic web forms to interactive browser games and functional tools.
+This portfolio showcases the personal projects is’ve developed throughout my learning journey from basic web forms to interactive browser games and functional tools.
 
 🚀 Projects
 Canva creation
 Containing all  the personal canva projects and drawings i did so far
+tech: Canva with knowhow on  Figma and Photoshop
 
 ai-lead-generator
 A prototype tool for automated lead collection.
@@ -68,5 +69,5 @@ Email: macellekenfack@gmail.com
 GitHub: https://github.com/marcelle237-alpha
 
 📌 Purpose of This Portfolio
-This repository documents my growth as a developer — from foundational exercises to fully interactive applications.
+This repository documents my growth as a developer from foundational exercises to fully interactive applications.
 My goal is to build a strong professional base in web development, cloud computing, and software architecture, while continuously improving my design and coding skills.
