@@ -1,73 +1,49 @@
-🌐 Marcelle kenfack— Web Development and Creative Coding Portfolio
-Welcome to my GitHub portfolio!
-I’m an Appliead compputer science student based in Brandenburg an der Havel, Germany, originally from Cameroon. I speek German , English  and French. I focus on web development, media design, creative coding, and modern software architecture, building projects that combine technical precision with visual clarity. I belong to those who think that with AI we can be much more performant.
+Marcelle Kenfack 
+Portfolio für Webentwicklung und kreatives Programmieren
+Willkommen in meinem GitHub-Portfolio! Ich bin Informatikstudentin an der  Technische Hochschule in Brandenburg an der Havel, Deutschland, und komme ursprünglich aus Kamerun. Ich spreche Deutsch, Englisch und Französisch. Meine Schwerpunkte liegen auf Webentwicklung, Mediendesign, kreativem Programmieren und moderner Softwarearchitektur. Dabei entwickle ich Projekte, die technische Präzision mit visueller Klarheit verbinden. Ich gehöre zu denen, die glauben, dass wir mit KI viel leistungsfähiger sein können.
 
-This portfolio showcases the personal projects is’ve developed throughout my learning journey from basic web forms to interactive browser games and functional tools.
+Dieses Portfolio zeigt die persönlichen Projekte, die ich im Laufe meines Lernprozesses entwickelt habe – von einfachen Webformularen bis hin zu interaktiven Browsergames und funktionalen Tools.
 
-🚀 Projects
-Canva creation
-Containing all  the personal canva projects and drawings i did so far
-tech: Canva with knowhow on  Figma and Photoshop
+🚀 Projekte Canva-Kreationen Enthält alle persönlichen Canva-Projekte und Zeichnungen, die ich bisher erstellt habe. Technik: Canva mit Kenntnissen in Figma und Photoshop
 
-ai-lead-generator
-A prototype tool for automated lead collection.
-Focus: form logic, data validation, clean UI structure.
-Tech: HTML, CSS, JavaScript
+ai-lead-generator Ein Prototyp-Tool zur automatisierten Lead-Erfassung. Schwerpunkt: Formularlogik, Datenvalidierung, übersichtliche UI-Struktur. Technologien: HTML, CSS, JavaScript
 
-co2-rechner
-An interactive CO₂ calculator that helps users understand their environmental footprint.
-Tech: HTML, CSS, JavaScript
+co2-rechner Ein interaktiver CO₂-Rechner, der Nutzern hilft, ihren ökologischen Fußabdruck zu verstehen. Technologien: HTML, CSS, JavaScript
 
-learningphase
-A sandbox for experimenting with DOM manipulation, layouts, events, and responsive design.
-Tech: HTML, CSS, JavaScript
+learningphase Eine Sandbox zum Experimentieren mit DOM-Manipulation, Layouts, Ereignissen und responsivem Design. Technologien: HTML, CSS, JavaScript
 
-MyFirstFormular
-My first interactive form project, focusing on UX, validation, and structured input handling.
-Tech: HTML, CSS
+MyFirstFormular Mein erstes interaktives Formularprojekt mit Schwerpunkt auf UX, Validierung und strukturierter Eingabeverarbeitung. Technologien: HTML, CSS
 
-MyWebsite
-A personal website demonstrating my design style and foundational web development skills.
-Tech: HTML, CSS
+MyWebsite Eine persönliche Website, die meinen Designstil und meine grundlegenden Webentwicklungsfähigkeiten demonstriert. Technologien: HTML, CSS
 
-sudoku (game)
-A browser‑based Sudoku game with dynamic logic and DOM rendering.
-Tech: HTML, CSS, JavaScript
+sudoku (Spiel) Ein browserbasiertes Sudoku-Spiel mit dynamischer Logik und DOM-Rendering. Technologien: HTML, CSS, JavaScript
 
-SuperCode (Game)
-A logic‑based browser game inspired by Mastermind.
-Focus: game mechanics, comparison logic, round management, dynamic UI feedback.
-Tech: HTML, CSS, JavaScript
+SuperCode (Spiel) Ein logikbasiertes Browserspiel, inspiriert von „Mastermind“. Schwerpunkte: Spielmechanik, Vergleichslogik, Rundenverwaltung, dynamisches UI-Feedback. Technologien: HTML, CSS, JavaScript
 
-Key learnings:
+Wichtigste Erkenntnisse:
 
-Algorithmic thinking
+Algorithmisches Denken
 
-Event handling
+Ereignisbehandlung
 
-DOM manipulation
+DOM-Manipulation
 
-Structuring game logic
+Strukturierung der Spielelogik
 
-Designing intuitive player feedback
+Gestaltung intuitiver Spieler-Feedbacks
 
-🧠 Skills & Focus
-Web Development (HTML, CSS, JavaScript)
+🧠 Fähigkeiten & Schwerpunkte Webentwicklung (HTML, CSS, JavaScript)
 
-Interactive & Creative Coding
+Interaktives & kreatives Programmieren
 
-UI/UX fundamentals
+UI/UX-Grundlagen
 
-Cloud computing basics
+Grundlagen des Cloud-Computing
 
-Modular, clean code structure
+Modulare, übersichtliche Codestruktur
 
-Professional documentation for academic projects
+Professionelle Dokumentation für akademische Projekte
 
-🔗 Portfolio & Contact 
-Email: macellekenfack@gmail.com
-GitHub: https://github.com/marcelle237-alpha
+🔗 Portfolio & Kontakt E-Mail: macellekenfack@gmail.com GitHub: https://github.com/marcelle237-alpha
 
-📌 Purpose of This Portfolio
-This repository documents my growth as a developer from foundational exercises to fully interactive applications.
-My goal is to build a strong professional base in web development, cloud computing, and software architecture, while continuously improving my design and coding skills.
+📌 Zweck dieses Portfolios Dieses Repository dokumentiert meine Entwicklung als Entwickler, von grundlegenden Übungen bis hin zu vollständig interaktiven Anwendungen. Mein Ziel ist es, eine solide berufliche Basis in den Bereichen Webentwicklung, Cloud-Computing und Softwarearchitektur aufzubauen und gleichzeitig meine Design- und Programmierfähigkeiten kontinuierlich zu verbessern.
